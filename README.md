@@ -3,6 +3,6 @@ I have been working in software development since 2023, focusing on website inte
 
 - [Galero](https://galero.netlify.app)
 - [Typebox](https://joaovmleite.github.io/Typebox)
-- [Geosense](https://geosensee.netlify.app/)
+- [Geosensee](https://geosensee.netlify.app/)
 
 ![Snake animation](https://github.com/fabiolealsc/fabiolealsc/blob/output/github-contribution-grid-snake.svg)
