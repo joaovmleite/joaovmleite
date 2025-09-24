@@ -22,7 +22,7 @@ My development approach prioritizes code quality, scalability, and an exceptiona
 
 ---
 
-## ¡Hola! 🇲🇽 🇦🇷 🇨🇱 🇪🇸
+## ¡Hola! 🇲🇽 🇦🇷 🇨🇱 🇪🇸 🇨🇴 🇪🇺
 
 Como **Ingeniero Full-Stack**, me enfoco en ofrecer soluciones eficientes y de alto impacto, convirtiendo mi pasión por la tecnología en una carrera orientada a resultados. Me especializo en **React y Node.js**, diseñando y construyendo aplicaciones complejas y escalables, creando APIs robustas e interfaces de usuario dinámicas.
 
