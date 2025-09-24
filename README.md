@@ -9,7 +9,7 @@ Additionally, I developed Areajobs.co, a job board web application inspired by a
 My development approach prioritizes code quality, scalability, and an exceptional user experience, ensuring that every product I deliver meets the highest standards.
 
 
-### Works
+### Tech Test
 
 - [AreaJobs.co](https://github.com/joaovmleite/areajobs.co) - React / Vite / Context API / Figma / CSS Modules
 - [Evolucional](https://github.com/joaovmleite/evolucional-teste-tecnico) - React / Vite / Context API / Vitest
@@ -32,7 +32,7 @@ Además, desarrollé **Areajobs.co**, una aplicación web de bolsa de trabajo in
 
 Mi enfoque de desarrollo prioriza la calidad del código, la escalabilidad y una experiencia de usuario excepcional, garantizando que cada producto que entrego cumpla con los más altos estándares.
 
-### Trabajos
+### Pruebas Técnicas
 
 - [AreaJobs.co](https://github.com/joaovmleite/areajobs.co) - React / Vite / Context API / Figma / CSS Modules
 - [Evolucional](https://github.com/joaovmleite/evolucional-teste-tecnico) - React / Vite / Context API / Vitest
