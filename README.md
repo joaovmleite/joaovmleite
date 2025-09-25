@@ -1,6 +1,6 @@
 ## Hello! 🇺🇸 🇬🇧
 
-As a Full-Stack Engineer with a strong focus on delivering efficient, high-impact solutions, I have turned my lifelong passion for technology into a results-driven career. Specializing in React and Node.js, I design and build complex, scalable applications, crafting robust APIs and dynamic user interfaces.
+As a Frontend Engineer with a strong focus on delivering efficient, high-impact solutions, I have turned my lifelong passion for technology into a results-driven career. Specializing in React and Node.js, I design and build complex, scalable applications, crafting robust APIs and dynamic user interfaces.
 
 I led the development of Evonauta, a school-management platform built with React and Vite, where I implemented comprehensive automated testing using Vitest and Testing Library. I also create lightweight, high-performance applications with pure JavaScript and serverless functions that orchestrate data from external APIs.
 
@@ -24,7 +24,7 @@ My development approach prioritizes code quality, scalability, and an exceptiona
 
 ## ¡Hola! 🇲🇽 🇦🇷 🇨🇱 🇪🇸 🇨🇴 🇪🇺
 
-Como **Ingeniero Full-Stack**, me enfoco en ofrecer soluciones eficientes y de alto impacto, convirtiendo mi pasión por la tecnología en una carrera orientada a resultados. Me especializo en **React y Node.js**, diseñando y construyendo aplicaciones complejas y escalables, creando APIs robustas e interfaces de usuario dinámicas.
+Como **Ingeniero Frontend**, me enfoco en ofrecer soluciones eficientes y de alto impacto, convirtiendo mi pasión por la tecnología en una carrera orientada a resultados. Me especializo en **React y Node.js**, diseñando y construyendo aplicaciones complejas y escalables, creando APIs robustas e interfaces de usuario dinámicas.
 
 Lideré el desarrollo de **Evonauta**, una plataforma de gestión escolar creada con React y Vite, donde implementé pruebas automatizadas exhaustivas usando Vitest y Testing Library. También desarrollo aplicaciones ligeras y de alto rendimiento con JavaScript puro y funciones *serverless* que orquestan datos de APIs externas.
 
