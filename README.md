@@ -9,7 +9,7 @@ My development approach prioritizes code quality, scalability, and an exceptiona
 
 - [Sizebay](https://github.com/joaovmleite/sizebay-teste-tecnico) - React / Vite / TailwindCSS / Adobe XD
 - [AreaJobs.co](https://github.com/joaovmleite/areajobs.co) - React / Vite / Context API / Figma / CSS Modules
-- [Evolucional](https://github.com/joaovmleite/evolucional-teste-tecnico) - React / Vite / Context API / Vitest
+- [Evolucional](https://github.com/joaovmleite/evolucional-teste-tecnico) - React / Vite / UIKit / Context API / Vitest
 
 ### Projects
 
@@ -29,7 +29,7 @@ Mi enfoque de desarrollo prioriza la calidad del código, la escalabilidad y una
 
 - [Sizebay](https://github.com/joaovmleite/sizebay-teste-tecnico) - React / Vite / TailwindCSS / Adobe XD
 - [AreaJobs.co](https://github.com/joaovmleite/areajobs.co) - React / Vite / Context API / Figma / CSS Modules
-- [Evolucional](https://github.com/joaovmleite/evolucional-teste-tecnico) - React / Vite / Context API / Vitest
+- [Evolucional](https://github.com/joaovmleite/evolucional-teste-tecnico) - React / Vite / UIKit / Context API / Vitest
 
 ### Proyectos
 
